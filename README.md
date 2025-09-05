@@ -23,4 +23,3 @@ Check out the live demo: https://poultryhelper.onrender.com/
 ## Contact
 - Email: a.a.amer91@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ahmed-amer-a27337131/
-- GitHub: https://github.com/AAAmer91
