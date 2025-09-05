@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed – Senior DevOps Engineer
 
-Welcome to my GitHub! I'm a Senior DevOps Engineer at SEITech Solutions, passionate about cloud, automation, and building reliable CI/CD pipelines. I've transitioned from data engineering to DevOps and use this space to share my projects, experiments, and tools.
+Welcome to my GitHub! I'm a Senior DevOps Engineer at SEITech Solutions, passionate about cloud, automation, and building reliable CI/CD pipelines. I've transitioned from data engineering and web development to DevOps and use this space to share my projects, experiments, and tools.
 
 ## Skills & Focus
 - CI/CD: GitHub Actions, Jenkins, Azure DevOps
