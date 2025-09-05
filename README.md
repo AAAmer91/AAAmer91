@@ -17,12 +17,12 @@ I’m a senior DevOps engineer at SEITech Solutions in Cairo, Egypt, with more t
 ## PoultryHelper Demo
 PoultryHelper is a full‑stack application that helps poultry farmers analyse and optimise their feed and production.  It includes:
 
-- **Uniformity & CV calculator:** Computes batch uniformity and coefficients of variation for weight ranges:contentReference[oaicite:10]{index=10}.  
-- **Feed analyzer:** Lets users enter ingredient weights and analyse feed composition:contentReference[oaicite:11]{index=11}.  
-- **Least‑cost optimizer:** Selects the optimal feed mix based on nutrient requirements and cost:contentReference[oaicite:12]{index=12}.  
-- **Ingredient composition:** Provides nutritional profiles for common feed ingredients:contentReference[oaicite:13]{index=13}.  
-- **Live feed prices:** Displays up‑to‑date prices for poultry feed ingredients:contentReference[oaicite:14]{index=14}.  
-- **Articles & documentation:** Offers technical guides and industry news for poultry farmers:contentReference[oaicite:15]{index=15}.  
+- **Uniformity & CV calculator:** Computes batch uniformity and coefficients of variation for weight ranges.  
+- **Feed analyzer:** Lets users enter ingredient weights and analyse feed composition.  
+- **Least‑cost optimizer:** Selects the optimal feed mix based on nutrient requirements and cost.  
+- **Ingredient composition:** Provides nutritional profiles for common feed ingredients.  
+- **Live feed prices:** Displays up‑to‑date prices for poultry feed ingredients.  
+- **Articles & documentation:** Offers technical guides and industry news for poultry farmers.  
 
 Try the live demo at [poultryhelper.onrender.com](https://poultryhelper.onrender.com).
 
