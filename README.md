@@ -1,45 +1,124 @@
-# Hi, I’m Ahmed – Senior DevOps Engineer
+# Hi, I'm Ahmed – Senior DevOps Engineer
 
-I’m a senior DevOps engineer at SEITech Solutions in Cairo, Egypt, with more than four years’ experience designing scalable automation frameworks and streamlining software delivery.  I excel at integrating CI/CD pipelines, infrastructure as code and cloud automation to deliver high‑quality, secure software.
+I'm a Senior DevOps Engineer at SEITech Solutions in Cairo, Egypt, with more than four years of experience designing scalable automation frameworks, CI/CD pipelines, and production-grade tooling. I specialize in **GitHub Actions**, **Python automation**, and **ALM integrations** to deliver high-quality, secure software with full traceability.
 
-## Skills & Focus
-- **Continuous Integration & Delivery (CI/CD):** GitHub Actions, Jenkins, GitHub Enterprise, build and test automation  
-- **Infrastructure as Code:** Terraform, AWS CloudFormation; provisioning and managing AWS infrastructure (EC2, S3, IAM, VPCs, Redshift, RDS)  
-- **Cloud & Containers:** AWS, Docker, Kubernetes  
-- **Data & Streaming Pipelines:** PostgreSQL → Debezium → Kafka → Redshift, Airflow and Lambda orchestration  
-- **Programming & Scripting:** Python, Bash, SQL, Java, TypeScript; API integration (Swagger v3)  
+---
 
-## Achievements
-- **SEITech Solutions (2025–present):** Automated CI/CD pipelines and integrated test reports into ALM platforms using GitHub Actions and Python; reduced manual testing workload by **70 %** and achieved **95 %** code‑coverage through robust testing frameworks.  
-- **Kiwilytics (2021–2025):** Designed and deployed streaming pipelines (PostgreSQL → Debezium → Kafka → Redshift) and optimised ETL processes on AWS.  Automated infrastructure provisioning with Terraform and Airflow.  
-- **Digital transformation:** At AL‑Rabwah Poultry Breeders, digitised operations and developed a suite of software tools to improve production efficiency and enable data‑driven decisions.  
+## 🛠️ Skills & Technologies
 
-## PoultryHelper Demo
-PoultryHelper is a full‑stack application that helps poultry farmers analyse and optimise their feed and production.  It includes:
+| Category | Technologies |
+|----------|-------------|
+| **CI/CD & Automation** | GitHub Actions (advanced), Jenkins, Reusable Workflows |
+| **Programming** | Python, TypeScript, Bash, SQL, C#, Node.js |
+| **DevOps Tools** | Docker, Terraform, AWS CloudFormation |
+| **Cloud Platforms** | AWS (EC2, S3, IAM, VPC, Redshift, RDS) |
+| **Data Pipelines** | PostgreSQL, Kafka, Airflow, CDC (Debezium) |
+| **Compliance & ALM** | Static Analysis Automation, ALM/PLM Integration (CodeBeamer) |
 
-- **Uniformity & CV calculator:** Computes batch uniformity and coefficients of variation for weight ranges.  
-- **Feed analyzer:** Lets users enter ingredient weights and analyse feed composition.  
-- **Least‑cost optimizer:** Selects the optimal feed mix based on nutrient requirements and cost.  
-- **Ingredient composition:** Provides nutritional profiles for common feed ingredients.  
-- **Live feed prices:** Displays up‑to‑date prices for poultry feed ingredients.  
-- **Articles & documentation:** Offers technical guides and industry news for poultry farmers.  
+---
 
-Try the live demo at [poultryhelper.onrender.com](https://poultryhelper.onrender.com).
+## 🏆 Key Achievements
 
-## DevOps & Cloud Projects
-- **Terraform AWS Lab:** Modular Terraform project for provisioning secure AWS environments with VPC, EC2 and S3. Includes GitHub Actions workflows for automated plan/apply.  
-- **CI/CD templates:** Ready‑to‑use Jenkinsfiles and GitHub Actions workflows for building, testing and deploying containerised applications.  
-- **CDC pipeline demo:** A Docker Compose setup demonstrating change‑data‑capture from PostgreSQL to Redpanda/Kafka, with Python consumers.  
-- **Jenkins & Ansible examples:** Playbooks for configuring EC2 instances and sample Jenkins configurations.
+- **Reduced manual testing workload by ~70%** through advanced CI/CD automation and tool integration.
+- **Achieved 95%+ code coverage** on critical internal automation suites.
+- **Architected enterprise-grade compliance pipelines**, processing thousands of lines of code for automated security and quality reporting.
+- **Designed robust release governance models** to ensure strict separation between validation and production environments.
 
-## Certifications & Languages
-- **Certifications:** CS101.2x Object‑Oriented Programming (edX), Oracle Cloud Infrastructure foundations, Java and SQL fundamentals.  
-- **Languages:** Arabic (native), English (professional), German (basic).  
-- **Volunteer work:** IEEE CUSB Electronics Club member; Resala charity volunteer.
+---
 
-## Contact
-- Email: [a.a.amer91@gmail.com](mailto:a.a.amer91@gmail.com)  
-- LinkedIn: [linkedin.com/in/ahmed-amer-a27337131/](https://www.linkedin.com/in/ahmed-amer-a27337131/)  
-- GitHub: [github.com/AAAmer91](https://github.com/AAAmer91)
+## 🚀 Featured Projects
 
-Thanks for visiting my page!
+### Enterprise Compliance Automation Suite
+*Architected a production-grade automated reporting system for mission-critical software.*
+
+Designed a comprehensive pipeline providing "Zero Tolerance" quality control:
+- **Automated Quality Gates:** Implemented configurable pass/fail logic based on static analysis metrics and differential analysis.
+- **Traceability Integration:** Built seamless integration between CI pipelines and Application Lifecycle Management (ALM) tools for automated audit trails.
+- **Report Generation Engine:** Developed a custom engine to generate professional, clickable PDF compliance reports directly from raw analysis data.
+- **Resilient Architecture:** Engineered with extensive error handling, retry logic, and a suite of over 120 automated tests.
+
+**Tech Stack:** Python, REST APIs, GitHub Actions, PDF Generation Libraries
+
+---
+
+### Advanced Release Governance Framework
+*Designed a strict branching and release strategy to ensure production integrity.*
+
+- **Context-Aware Pipelines:** Engineered dynamic CI workflows that automatically adapt behavior based on release stage and tag history.
+- **Strict Lineage Enforcement:** Implemented compliance logic to guarantee production builds originate from validated pre-release commits without drift.
+- **Modular Infrastructure:** Refactored monolithic workflows into reusable composite actions, significantly reducing maintenance overhead.
+- **Self-Validating Automation:** Built a test harness to programmatically verify branching rules and git graph integrity.
+
+**Tech Stack:** GitHub Actions, Bash, Git Architecture, JavaScript
+
+---
+
+### GPS Tracker Dashboard
+*A real-time IoT tracking dashboard for A9G GSM+GPS modules.*
+
+- **Real-Time Visualization:** WebSocket communication (Socket.IO) for instant location broadcasts.
+- **Advanced Geofencing:** Dual-format engine supporting circular and polygonal boundaries.
+- **Robust Backend:** Node.js/Express API with PostgreSQL connection pooling and rate limiting.
+- **Interactive UI:** Modular frontend using Leaflet.js with historical path visualization.
+
+**Tech Stack:** Node.js, Express, PostgreSQL, Socket.IO, Leaflet.js
+
+---
+
+### PoultryHelper
+*A full-stack application helping poultry farmers optimize feed and production.*
+
+- **Feed Analysis:** Computes batch uniformity and nutrient composition.
+- **Least-Cost Optimizer:** Selects optimal feed mix based on requirements and cost.
+- **Modern Android App:** Jetpack Compose UI with edge-to-edge display and performance optimizations.
+
+🔗 **Live Demo:** [poultryhelper.onrender.com](https://poultryhelper.onrender.com)
+
+---
+
+## 💼 Work Experience
+
+### SEITech Solutions (2025–Present)
+*Senior Software Engineer – DevOps*
+- Automating CI/CD pipelines and integrating test reports into ALM platforms.
+- Developing custom automation tools to bridge gaps between static analysis, reporting, and project management.
+- Streamlining release processes to improve reliability and traceability.
+
+### Kiwilytics (2021–2025)
+*Data Engineer / DevOps*
+- Designed streaming data pipelines and optimized ETL processes on AWS.
+- Automated infrastructure provisioning using Terraform.
+- Built comprehensive CI pipelines for web applications.
+
+### AL-Rabwah Poultry Breeders (2015–2021)
+*Technical Lead*
+- Led digital transformation initiatives, developing software tools to improve production efficiency.
+
+---
+
+## 🎓 Certifications & Education
+
+- **B.Sc. Electronics & Communications** – Cairo University (2013, "Very Good")
+- **CS101.2x Object-Oriented Programming** – edX
+- **Oracle Cloud Infrastructure Foundations**
+- **Java and SQL Fundamentals**
+
+---
+
+## 🌍 Languages
+
+- 🇪🇬 Arabic (Native)
+- 🇬🇧 English (Professional)
+- 🇩🇪 German (Basic)
+
+---
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-a.a.amer91%40gmail.com-red?style=flat-square&logo=gmail)](mailto:a.a.amer91@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Amer-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahmed-amer-a27337131/)
+[![GitHub](https://img.shields.io/badge/GitHub-AAAmer91-black?style=flat-square&logo=github)](https://github.com/AAAmer91)
+
+---
+
+*Thanks for visiting my page!*
