@@ -81,7 +81,7 @@ I'm a Senior DevOps and Platform Engineer at SEITech Solutions with **5+ years o
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AAAmer91&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AAAmer91&theme=tokyonight" alt="GitHub Profile Summary" width="95%" />
 </div>
 
 <br />
