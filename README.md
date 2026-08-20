@@ -81,12 +81,13 @@ I'm a Senior DevOps and Platform Engineer at SEITech Solutions with **5+ years o
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AAAmer91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAAmer91&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=AAAmer91&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAAmer91&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AAAmer91&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" width="95%" />
 </div>
 
 ---
